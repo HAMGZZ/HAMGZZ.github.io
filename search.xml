@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Blat! Prototype</title>
+      <link href="2021/03/09/Blat-Prototype/"/>
+      <url>2021/03/09/Blat-Prototype/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Blat"><a href="#Blat" class="headerlink" title="Blat!"></a>Blat!</h1><p>I picked up a pair of bimodal exhaust for my Holden Commodore recently… However, as I have a VE model, there is no built in controller, so I could do what everyone else does and just wire up some buttons to a micro and call it a day. This does not suite me, I want a dynamic option too… So thats where Blat! comes in…</p><h2 id="Requirements"><a href="#Requirements" class="headerlink" title="Requirements"></a>Requirements</h2><ul><li>Dynamic reading of car stats.</li><li>Low power draw</li><li>Output signal for exhaust valves must be 10v</li><li>Button to change modes</li></ul><h2 id="Prototype"><a href="#Prototype" class="headerlink" title="Prototype"></a>Prototype</h2><p>To come…</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Car </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Electronics, Cars, Microcontroller </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>First Post</title>
       <link href="2021/03/09/FirstPost/"/>
       <url>2021/03/09/FirstPost/</url>
